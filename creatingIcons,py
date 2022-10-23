@@ -1,0 +1,4 @@
+from tkinter import *
+root = Tk()
+root.iconbitmap('icons8-smiling-48.ico')
+root.mainloop()
